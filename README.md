@@ -20,14 +20,14 @@ This plugin collects evidence from the DummyJSON API for the Anecdotes platform.
 1. Clone this repository
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Usage
 
 Run the plugin:
 ```bash
-python main.py
+python3 main.py
 ```
 
 The plugin will:
